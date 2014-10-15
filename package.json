@@ -1,0 +1,24 @@
+{
+  "name": "nest-namespace",
+  "version": "0.0.1",
+  "author": {
+    "name": "Tim Kuijsten",
+    "email": "tim@netsend.nl",
+    "url": "https://github.com/timkuijsten"
+  },
+  "license": "MIT",
+  "description": "Create a nested structure based on flat object key names",
+  "keywords": [
+    "nest",
+    "namespace"
+  ],
+  "main": "index.js",
+  "bugs": "https://github.com/timkuijsten/node-nest-namespace/issues",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timkuijsten/node-nest-namespace.git"
+  }
+}
