@@ -1,6 +1,6 @@
 # nest-namespace
 
-Create a nested structure based on key names of an object.
+Create a nested structure based on flat object key names.
 
 ## Example
 
@@ -37,7 +37,7 @@ Create an object from a 1d, 2d and 3d namespace:
  * chr {String, default: "."}  character to split keynames on
  * @return {Object}  nested object
 
-Create a nested structure based on key names of an object.
+Create a nested structure based on flat object key names.
 
 ## Tests
 
